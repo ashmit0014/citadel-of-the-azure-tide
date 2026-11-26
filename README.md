@@ -14,8 +14,8 @@ An interactive, self-contained WebGL 2 voxel artwork depicting a terraced Medite
 
 ## Live Playable Version
 
-Once GitHub Pages is enabled for this repository, the artwork is directly playable in any WebGL 2 desktop or mobile browser at:
-`https://ashmit0014.github.io/citadel-of-the-azure-tide/`
+Play the artwork directly in any WebGL 2 desktop or mobile browser at:
+**[https://ashmit0014.github.io/citadel-of-the-azure-tide/](https://ashmit0014.github.io/citadel-of-the-azure-tide/)**
 
 ## Opening & Playing Locally
 
